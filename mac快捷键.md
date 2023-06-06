@@ -1,9 +1,9 @@
 <pre>
-option + shift + 9                                            ·
-option + command + esc(escape)                                Force quit Applications
-option + =                                                    ≠
-shift  + 6(切换到中文输入法后输入) 或者 option + ;                 ……
-Option + ;（分号键）。iOS 的英文键盘上可以通过长按句号来输入省略号。   …
+option + shift + 9 或者 option + shift + `(切换到中文输入法后输入)                  ·
+option + command + esc(escape)                                                  Force quit Applications
+option + =                                                                      ≠
+shift  + 6(切换到中文输入法后输入) 或者 option + ;(切换到中文输入法后输入)              ……
+Option + ;(切换到英文输入法后输入）, iOS 的英文键盘上可以通过长按句号来输入省略号.         …
 
 </pre>
 
